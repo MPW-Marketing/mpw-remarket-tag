@@ -27,7 +27,7 @@ Remarketing tags may not be associated with personally identifiable information 
 var google_conversion_id = '.$atts['convid'].';
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
-/* ]]> */
+/* ]]&gt; */
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
