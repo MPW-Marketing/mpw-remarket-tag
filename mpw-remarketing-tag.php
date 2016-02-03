@@ -33,7 +33,6 @@ var google_remarketing_only = true;
 </script>
 <noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/'.$atts['convid'].'/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>';
 
-$cont = esc_html( $cont );
 return do_shortcode( $cont );
 }
 
